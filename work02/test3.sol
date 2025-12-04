@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8;
-// =====提交的测试合约地址：0xD31f44e3C93cB349BD3aFAD9725Bca50C410b27c======
+// =====提交的测试合约地址：0x03F7276Db2ab64B70e6a88A0EB1725C0F9A4d90B======
 // 任务目标
 // 1. 使用 Solidity 编写一个合约，允许用户向合约地址发送以太币。
 // 2. 记录每个捐赠者的地址和捐赠金额。
